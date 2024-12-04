@@ -106,7 +106,8 @@ body {
 
 hr {
     border: 1px solid #ccc;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
+    margin-top: 40px;
     
 }
 
@@ -147,7 +148,57 @@ hr {
     color: var(--text-secondary);
 
 }
+#lista-recomendado li { 
+        margin-left: 45px;
+}
+
+#historia {
+    color: #0C51A7;
+    font-weight: bold;
+    text-decoration: none;
+
+
+}
+#casais {
+
+    color: var(--accent-purple);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#familias {
+    color: var(--accent-pink);
+    font-weight: bold;
+    text-decoration: none;
+}
+#orcamento {
+    color: var(--accent-orange);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
 strong  {
     margin-left: 20px;
 }
 
+
+.description-img p {
+    margin-bottom: 100px;
+    color: var(--text-secondary);
+    text-align: center;
+    font-size: 25px;~
+    
+
+}
+footer {
+    display: block;   
+    margin: 0 auto;
+    color: var(--text-secondary);
+    font-weight: 500;
+    font-size: 20px;
+    margin-bottom: 48px ;~
+    
+
+
+}
