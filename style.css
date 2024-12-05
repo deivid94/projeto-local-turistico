@@ -148,6 +148,17 @@ hr {
     color: var(--text-secondary);
 
 }
+
+.card-travel li {
+    margin-left: 45px;
+}
+
+.card-travel ul {
+
+    margin-bottom: 45px;
+
+
+}
 #lista-recomendado li { 
         margin-left: 45px;
 }
@@ -187,8 +198,7 @@ strong  {
     margin-bottom: 100px;
     color: var(--text-secondary);
     text-align: center;
-    font-size: 25px;~
-    
+    font-size: 25px;
 
 }
 footer {
@@ -197,8 +207,6 @@ footer {
     color: var(--text-secondary);
     font-weight: 500;
     font-size: 20px;
-    margin-bottom: 48px ;~
+    margin-bottom: 48px ;
     
-
-
 }
